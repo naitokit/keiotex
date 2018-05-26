@@ -51,4 +51,3 @@ if __name__ == '__main__':
                 + "/*.pdf " + target_dir_path_local
         print("$ " + receive_pdf_command)
         os.system(receive_pdf_command)
-
